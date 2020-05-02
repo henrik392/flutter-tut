@@ -58,9 +58,9 @@ flutter:
   fonts:
     - family: Monsterat
       fonts:
-        - asset: assets/fonts/Monsterat-Regular.tff
+        - asset: assets/fonts/Monsterrat-Regular.tff
           weight: 300
-        - asset: assets/fonts/Monsterat-Bold.tff
+        - asset: assets/fonts/Monsterrat-Bold.tff
           weight: 600
   #
   # For details regarding fonts from package dependencies,
